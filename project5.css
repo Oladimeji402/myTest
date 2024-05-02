@@ -1,0 +1,143 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    list-style: none;
+    text-decoration: none;
+}
+body{
+    background-image: url(/cool.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.joke{
+    text-align: center;
+   color: red;
+   font-size: 90px;
+   background-color: transparent;
+   cursor: pointer;
+}
+
+.joker{
+    background-color:white;
+    display: flex;
+    color: red;
+}
+.joker ul{
+    display: flex;
+    gap: 1cm;
+    background-color: white;
+    font-size: 20px;
+    padding: 20px;
+}
+.joker ul li a{
+    display: flex;
+    color: red;
+    cursor: pointer;
+}
+ .bat li:hover{
+    background-color: blue;
+    color: white;
+   cursor: pointer;
+   width: auto;
+   height: fit-content;
+}
+.cold{
+    background-color: red;
+    color: white;
+    width: auto;
+    height: auto;
+    text-align: center;
+    text-decoration: none;
+    border: 0;
+    border-radius: 8px;
+    font-weight: 400;
+    font-size: 1.4rem;
+    font-family: inherit;
+    padding: 5px;
+ }
+ button:hover{
+    color: white;
+    background-color: black;
+    /* width: 300px;
+    height: 300px; */
+    transform: ;
+ }
+ .doc{
+    display: flex;
+    gap: 1cm;
+ }
+ .ko{
+    margin-top: 0;
+ }
+ .okay{
+    margin-left: 17cm;
+ }
+ .pole{
+    background-color: red;
+    border: none;
+    width: fit-content;
+    height: fit-content;
+    /* max-height: 400px; */
+    margin-top: 2cm;
+ }
+ .im{
+  width: 100%;
+  height: 100%;
+ }
+ .text{
+    text-align: center;
+ }
+ .img{
+    width: 100%;
+ }
+ .opi{
+    width: 50%;
+ }
+ .tea{
+   display: flex;
+   gap: 1.5cm;
+   justify-content: center;
+ }
+ .divo {
+   width: fit-content;
+   height: auto;
+   background-color: red;
+   position: relative;
+   animation-name: sulaimon;
+   animation-duration: 10s;
+   animation-iteration-count: 10;
+   margin-left: 11cm;
+ }
+ .div{
+   width: fit-content;
+   height: auto;
+   background-color: red;
+   position: relative;
+   animation-name: sulaimon;
+   animation-duration: 10s;
+   animation-iteration-count: 10;
+   margin-left: 14cm;
+   margin-bottom: 20px;
+ }
+ 
+ @keyframes sulaimon {
+   0%   {background-color:white; left:0px; top:0px;}
+   25%  {background-color:yellow; left:200px; top:0px;}
+   50%  {background-color:blue; left:200px; top:200px;}
+   75%  {background-color:green; left:0px; top:200px;}
+   100% {background-color:red; left:0px; top:0px;}
+ }
+ .PRO{
+   font-size: 50px;
+   text-align: center;
+   /* margin-left: 3cm;
+   margin-right: 4.3cm; */
+   width: fit-content;
+   height: fit-content;
+ }
+ .PR{
+   font-size: 50px;
+   margin-top: 10px;
+ }

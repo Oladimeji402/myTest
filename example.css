@@ -1,0 +1,40 @@
+.subnav {
+    float: left;
+    overflow: hidden;
+    background-color: black;
+  }
+  .subnav .subnavbtn {  
+    border: none;
+    outline: none;
+    color: white;
+    padding: 14px 16px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+  }
+  .navbar a:hover, .subnav:hover .subnavbtn {
+    background-color: red;
+  }
+  .subnav:hover .subnav-content {
+    display: block;
+  }
+  .subnav-content a:hover {
+    background-color: #eee;
+    color: black;
+  }
+  .subnav-content a {
+    float: left;
+    color: white;
+    text-decoration: none;
+  }
+  .subnav-content {
+    display: none;
+    position: absolute;
+    left: 0;
+    background-color: red;
+    width: 100%;
+    z-index: 1;
+  }  
+  .subnav:hover .subnav-content {
+    display: block;
+  }

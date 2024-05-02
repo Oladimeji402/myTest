@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    list-style: none;
+    text-decoration: none;
+}
+body{
+    background: #ddd;
+}
+.navbar{
+    display: flex;
+    height: 16vh;
+    background: rgb(63, 167, 167);
+    justify-content: space-evenly;
+    align-items: center;
+}
+.navbar .logo{
+    font-size: 30px;
+    margin-left: -370px;
+    color: #fff;
+}
+.navbar ul {
+    display: flex;
+    margin-right: -340px;
+    gap: 1cm;
+}
+.navbar ul li a{
+    display: flex;
+    color: #fff;
+}
+.you :hover{
+    background-color: #000;
+    color: red;
+
+}
+.date{
+    background-color: rgb(37, 156, 231);
+    width: fit-content;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 0.4cm;
+    opacity: 0.8;
+}
+.toy{
+    background-color: rgb(63, 167, 167);
+    color: white;
+    text-align: center;
+    padding: 0.4cm;
+}
+.yot{
+    color: black;
+    text-align: center;
+    margin-top: 0.8cm;
+    margin-bottom: 1cm;
+}
+.food{
+    background-color: rgb(227, 194, 205);
+    width: fit-content;
+    padding: 0.4cm;
+}
+.yam{
+    background-color: rgba(95, 174, 95, 0.797);
+    width: fit-content;
+    padding: 0.4cm;
+}
+.may{
+    background-color: rgba(238, 232, 170, 0.817);
+    width: fit-content;
+    padding: 0.4cm;
+}
+.got{
+    background-color: rgb(124, 201, 226);
+    width: fit-content;
+    padding: 0.4cm;
+}
+.doof{
+    display: flex;
+    gap: 0.5cm;
+}
+.oty{
+    margin-top: 0.8cm;
+}
+.oiu{
+    margin-bottom: 0.8cm;
+}
+.loi{
+    margin-top: 0.6cm;
+}

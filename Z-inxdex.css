@@ -1,0 +1,67 @@
+body{
+    background-color: cadetblue;
+}
+.table{
+    border: 1px solid black;
+    background-color: chocolate;
+    width: 4cm;
+    height: 4cm;
+    text-align: center;
+    z-index: 3;
+    position: relative;
+    cursor: pointer;
+    font-size: 10px;
+    margin-top: 6cm;
+}
+.ik{
+    border: 1px solid black;
+    background-color: white;
+    width: 4cm;
+    height: 4cm;
+    text-align: center;
+    z-index: 2;
+    position: relative;
+    margin-left: 2cm;
+    top: -3cm;
+    margin-bottom: 0;
+    cursor: pointer;
+    font-size: 10px;
+}
+.lo{
+    border: 1px solid black;
+    background-color: rgba(17, 59, 17, 0.721);
+    width: 4cm;
+    height: 4cm;
+    text-align: center;
+    z-index: 1;
+    margin-left: 4cm;
+   position: relative;
+   top: -6cm;
+   font-size: 10px;
+   cursor: pointer;
+}
+.kio{
+    margin-left: 3cm;
+}
+.flex{
+    display: flex;
+}
+.top{
+    margin-top: 6cm;
+    font-size: 70px;
+    margin-left: 2cm;
+    color: white;
+}
+.table :hover{
+    background-color: aqua;
+    z-index: 8;
+}
+.ik :hover{
+   background-color: black;
+    z-index: 4;
+}
+.lo :hover{
+    background-color: darkblue;
+    z-index: 6;
+}
+

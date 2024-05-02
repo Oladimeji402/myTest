@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0
+}
+.tew{
+    text-align: center;
+}
+.wet{
+    color: green;
+}
+.tas{
+    margin-left: 590px;
+    margin-right: 570px;
+    margin-top: 1cm;
+}
+.hi{
+    text-align: center;
+    color: red;
+    font-size: 50px;
+    margin-top: 0.6cm;
+}
+/* .olu{
+    width: 1000px;
+    margin: auto;
+} */
+table{
+    border: 1 solid black;
+    width: fit-content
+    height: 500px;
+    margin: auto;
+    border-collapse: collapse;
+}
+button{
+    height: 950px;
+    padding: 5px;
+    border: 3px;
+}
+.ih{
+    background-color: brown;
+}
+.il{
+    background-color: blue;
+}
+.mi{
+    background-color: green;
+}
+.ki{
+    background-color: black;
+}
+.ju{
+    display: flex;
+}
+.kio{
+    display: flex;
+}
+.ght{
+    width: 1250px;
+    height: 400px;
+}
+.lopi{
+    margin: auto;
+}
+

@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body {
+  font-family: Arial, Helvetica, sans-serif;
+display: flex;
+justify-content: center;
+align-items: center;
+min-height: 100vh;
+background: linear-gradient(rgb(255, 68, 196), rgb(255, 0, 196) 45%, #fff 45%, #fff 100%);
+}
+.ody{
+    font-family: Arial, Helvetica, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: linear-gradient(rgb(255, 68, 196),rgb(255, 0, 196), #fff 100%);
+}
+.body{
+  clip-path: circle(52.6% at 17% 55%);
+  padding: 0;
+}
+.kio{
+  color: white;
+  margin-right: 50px;
+}
+.flex{
+  display: flex;
+}
+.okay{
+  text-align: center;
+}
+.ijh{
+  mix-blend-mode: multiply;
+  margin-top: 80px;
+}
+.kij{
+  border-radius: 50%;
+}
+/* .but{
+  margin-right: 50px;
+} */
+.haiy{
+  font-family: serif;
+  font-style: italic;
+}
+.kol{
+  margin-top: -2.5cm;
+  background-color: transparent;
+}
+.hiu{
+  margin-left: -2.5cm;
+}
+.flex{
+  display: flex;
+}
+.lok{
+  font-family: 'Courier New', Courier, monospace;
+}

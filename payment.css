@@ -1,0 +1,148 @@
+.mon{
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    opacity: 0.7;
+}
+. nom{
+    opacity: 0.4;
+    margin-top: 1cm;
+}
+.kol{
+    color: purple;
+    background-color: rgb(215, 175, 215);
+    /* width: 20%; */
+    border: none;
+    outline: none;
+    cursor: pointer;
+    /* background: #1877f2; */
+    padding: 5px 10px;
+    border-radius: 5px;
+    /* color: #fff;
+    font-size: 1.25rem;
+    font-weight: 600; */
+    transition: 0.2s ease;
+    height: 20%;
+    margin-top: 25px;
+    text-align: center;
+    opacity: 0.6;
+}
+.loik{
+    display: flex;
+    gap: 3cm;
+}form {
+    display: flex;
+    flex-direction: column;
+    /* background: #fff; */
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1),
+      0 8px 16px rgba(0, 0, 0, 0.1);
+    max-width: 400px;
+    width: fit-content;
+    margin: auto;
+    opacity: 0.9;
+    background-image: url(fcmb-logo.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 200px;
+    /* filter: blur(4px); */
+    /* background-image: image(/3.jpg); */
+  }
+  
+
+  form input {
+    height: 55px;
+    width: 100%;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    margin-bottom: 15px;
+    font-size: 1rem;
+    padding: 0 10px;
+  }
+  .ll{
+    display: flex;
+  }
+  .jhk{
+    color: purple;
+    background-color: rgb(215, 175, 215);
+    
+    border: none;
+    outline: none;
+    cursor: pointer;
+    /* background: #1877f2; */
+    padding: 10px 0;
+    border-radius: 5px;
+    /* color: #fff; */
+    font-size: 1.25rem;
+    font-weight: 600;
+    transition: 0.2s ease;
+    margin-top: 1cm;
+    opacity: 0.6;
+    font-size: small;
+  }
+  .kjh{
+    color: rgb(123, 49, 123);
+    background-color: whitesmoke;
+    
+    border: none;
+    outline: none;
+    cursor: pointer;
+    /* background: #1877f2; */
+    padding: 10px 0;
+    border-radius: 5px;
+    /* color: #fff; */
+    font-size: 1.25rem;
+    font-weight: 600;
+    transition: 0.2s ease;
+    margin-top: 0.5cm;
+    opacity: 0.9;
+    font-size: small;
+  }
+  .uij{
+    background-image: url('keyicon\ real.jpg');
+    background-position: left; 
+    background-repeat: no-repeat;
+    /* margin-right: 80px; */
+    background-size: 40px;
+    background-attachment: initial;
+    background-color: inherit;
+  }
+  .jlk{
+    margin-left: 70%;
+    justify-content: end;
+  }
+  .njk{
+    margin-left: 30px;
+  }
+  /* #containers{
+    max-width: 400px;
+    margin: auto;
+    border: 1 solid black;
+    text-align: center;
+    padding: 0.4cm;
+    margin-top: 0;
+    width: fit-content; 
+    border-color: rgb(128, 5, 5);
+    box-sizing: border-box;
+    margin: 90px 60px;
+  } */
+  /* .form{ */
+    /* background-image: url(2.jpg); */
+  /* } */
+.oip{
+  font-size: 1rem;
+  border: none;
+  outline: none;
+  text-decoration: none;
+  background-color: inherit;
+}
+.poi{
+  font-size: 1rem;
+  border: none;
+  outline: none;
+  text-decoration: none;
+  background-color: inherit;
+  /* margin-right: 10px; */
+  }
+
+

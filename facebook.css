@@ -1,0 +1,173 @@
+h1{
+    text-align: center;
+    color: blue;
+}
+
+.face{
+    width: 150px;
+    border-radius: 5px;
+    background-color: blue;
+    color: white;
+
+    margin-top: 20px;
+    text-align: center;
+    margin: auto;
+}
+
+/* #containers{
+    /* max-width: 400px;
+    margin: auto;
+    border: 1 solid black;
+    text-align: center;
+    padding: 0.4cm;
+    margin-top: 0;
+    width: 100%;
+} */ */
+
+.book{
+    margin-bottom: 10px;
+}
+
+/* .cards{
+    background-color: white;
+    padding: 8px;
+
+    border-radius: 12px;
+    border: 1px solid #BACDD8
+} */
+
+.great{
+    width: fit-content;
+    border-radius: 5px;
+    background-color: green;
+    color: white;
+    text-align: center;
+    margin: auto;
+}
+
+.nice{
+    margin-top: 20px;
+    margin: auto;
+    margin-bottom: 10px;
+}
+
+.okay{
+    margin-bottom: 0;
+}
+
+.tie{
+    color: white;
+    cursor: pointer;
+}
+
+nav, ul :hover{
+    color: black;
+    text-decoration: none;
+}
+.uit{
+    border: none;
+    outline: none;
+    cursor: pointer;
+    background: #1877f2;
+    padding: 10px 0;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 1.25rem;
+    font-weight: 600;
+    transition: 0.2s ease;
+  }
+  
+  .uit :hover {
+    background: #0d65d9;
+  }
+
+  /* .uit {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    gap: 15px;
+  } */
+  form {
+    display: flex;
+    flex-direction: column;
+    background: #fff;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1),
+      0 8px 16px rgba(0, 0, 0, 0.1);
+    max-width: 400px;
+    width: 100%;
+    margin: auto;
+  }
+  
+
+  form input {
+    height: 55px;
+    width: 100%;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    margin-bottom: 15px;
+    font-size: 1rem;
+    padding: 0 10px;
+  }
+  .button a {
+    padding: 15px 20px;
+    background: #42b72a;
+    border-radius: 6px;
+    color: #fff;
+    font-size: 1.063rem;
+    font-weight: 600;
+    transition: 2s ease;
+    margin-top: 10px;
+  }
+  
+  .button a:hover {
+    background: #3ba626;
+  }
+  /* .uit a:hover{
+    background-color: blueviolet;
+  } */
+  .tton{
+    margin: auto;
+    margin-top: 30px;
+    margin: left -320px;;
+    /* margin-bottom: 20px; */
+  }
+/* .cord{
+    margin: auto;
+}
+   */
+   .jui{
+    margin: auto;
+   }
+   .uij{
+    margin-top: 10px;
+   }
+.lio{
+    display: flex;
+    margin-top: 10px;
+    margin-bottom: 0;
+}
+.uuu{
+    margin-top: -5px;
+}
+.hr{
+    width: 100%;
+}
+yop{
+    display: flex;
+}
+.thy{
+  border: none;
+  outline: none;
+  cursor: pointer;
+  background: green;
+  padding: 10px 0;
+  border-radius: 5px;
+  color: #fff;
+  font-size: 1.25rem;
+  font-weight: 600;
+  transition: 0.2s ease;
+  margin-top: 30px;
+  margin: auto;
+}

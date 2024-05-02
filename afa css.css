@@ -1,0 +1,323 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.poff{
+    height: 40px;
+    gap: 1cm;
+    background-color:rgb(37, 177, 165);
+    display: flex;
+    padding-top: 1cm;
+    padding-left: 1cm;
+    /* margin-left: 2cm; */
+    /* margin-right: 2cm; */
+}
+body{
+    justify-content: center;
+    /* align-items: center; */
+    min-height: 150px;
+}
+.mad{
+    display: flex;
+    gap: 0.2cm;
+    justify-content: center;
+    margin-left: 7cm;
+    color: white;
+}
+.saving{
+    color: rgb(49, 49, 49);
+}
+.Card{
+    display: flex;
+    gap: 1cm;
+    margin-left: 7cm;
+    cursor: pointer;
+}
+.down{
+    display: flex;
+    gap: 0.2cm;
+    /* margin-left: 7cm; */
+    cursor: pointer; 
+    /* width: 3cm; */
+}
+.droptt{
+    border: 1px solid none;
+}
+.dropdown {
+    /* display: flex; */
+  position: relative;
+  display: inline-block;
+  margin-left: 8cm;
+  
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 200px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {background-color: #5e5a5a}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+.alll{
+    display: flex;
+    gap: 1cm;
+    margin-top: 1cm;
+}
+.harldf{
+    border: 1px solid rgb(209, 206, 206);
+    width: 250px;
+    height: 3cm;
+    background-color:#f8f9fa;
+    text-align: center;
+    color: black;
+    border-radius: 10px;
+    font-family: sans-serif;
+}
+.strong{
+    border: 1px solid rgb(209, 206, 206);
+    width: 250px;
+    height: 3cm;
+    background-color:#f8f9fa;
+    text-align: center;
+    color: black;
+    border-radius: 10px;
+    font-family: sans-serif;
+}
+.flopt{
+    border: 1px solid rgb(209, 206, 206);
+    width: 250px;
+    height: 3cm;
+    background-color:#f8f9fa;
+    text-align: center;
+    color: black;
+    border-radius: 10px;
+    font-family: sans-serif;
+}
+.woto{
+    background-color: rgb(37, 177, 165);
+    margin-top: 1cm;
+    height: 2cm;
+    display: flex;
+    color: white;
+    /* font-size: 10cm; */
+    /* justify-content: space-around; */
+}
+.btnnn{
+    cursor: pointer;
+}
+.badge{
+border: 1px solid lightseagreen;
+border-radius: 50px;
+background-color: lightseagreen;
+color: white;
+}
+.drop{
+  position: relative;
+  display: inline-block;
+  margin-left: 2cm;
+  cursor: pointer;
+  /* font-size: 30px; */
+  
+}
+
+.drop-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 50px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.drop-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.drop-content a:hover {background-color: #c42c2c}
+
+.drop:hover .dropdown-content {
+  display: block;
+}
+.loud{
+    margin-top: 0.6cm;
+    /* font-size: 0.5cm; */
+}
+.move{
+    margin-top: 0.5cm;
+    /* font-size: 20px; */
+    font-family: Arial, Helvetica, sans-serif;
+}
+.jowa{
+    margin-top: 0.5cm;
+}
+.wonn{
+    margin-top: 0.5cm;
+}
+.facee{
+    margin-left: 9cm;
+    margin-top: 0.6cm;
+    gap: 1cm;
+}
+.icon-row{
+    display: flex;
+    margin-top: 0.6cm;
+    gap: 1cm;
+}
+.preso{
+    position: relative;
+}
+.free{
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.wooo{
+    width: 3cm;
+    height: 1cm;
+    background-color:aquamarine;
+    color: white;
+    /* border: 1px solid none; */
+    text-align: center;
+}
+.fuckk{
+    margin-left: 7cm;
+    margin-top: 0.7cm;
+}
+.runners{
+    background-color: #fff;
+}
+.strng{
+    margin-left: 1cm;
+    margin-top: 2cm;
+    border: 1px solid rgb(209, 206, 206);
+    width: 250px;
+    height: 7cm;
+    background-color:#ffffff;
+    text-align: center;
+    color: rgb(196, 194, 194);
+    /* border-radius: 10px; */
+    font-family: sans-serif;
+}
+.oddor{
+    display: flex;
+    gap: 1cm;
+    margin-left: 1cm;
+}
+.momoow{
+    margin-top: 2cm;
+}
+.proo{
+    margin-top: 2cm;
+}
+.alata{
+    margin-top: 2cm;
+}
+.forureyes{
+    display: flex;
+}
+.heeeee{
+    display: flex;
+    gap: 1cm;
+    margin-left: 1cm;
+    margin-top: 2cm;
+}
+.wrote{
+    border: 1px solid black;
+    width: 290px;
+    height: 270px;
+    text-align: center;
+    font-size: 20px;
+    /* margin-top: 20px; */  
+}
+.buttt{
+    border: 1px solid black;
+    width: 290px;
+    height: 270px;
+    text-align: center;
+    font-size: 20px;
+    /* margin-top: 20px; */    
+}
+.prasee{
+    border: 1px solid black;
+    width: 290px;
+    height: 270px;
+    text-align: center;
+    font-size: 20px;
+    /* margin-top: 20px; */
+}
+.dayyy{
+    border: 1px solid black;
+    width: 290px;
+    height: 270px;
+    text-align: center;
+    font-size: 20px;
+}
+.forrre{
+    text-align: center;
+}
+.rushh{
+    display: flex;
+    margin-left: 1cm;
+    gap: 1.5cm;
+    /* border: 1px solid black; */
+    margin-top: 2cm;
+    
+}
+.rushh:hover p{
+    /* border: 4px solid green;     */
+
+}
+.seeeeee{
+    border: 4px solid green;
+}
+.pass{
+    border: 4px solid green;
+}
+.gugugu{
+    border: 4px solid green;
+}
+.don{
+    border: 4px solid green;   
+}
+.nopass{
+    border: 4px solid green;
+}
+.glass{
+    border: 4px solid green;
+}
+.God{
+    border: 4px solid green;
+}
+.away{
+border: 4px solid green;
+}
+.seeeeee:hover p{
+    cursor: pointer;
+    border: 4px solid green;
+}
+.prett{
+    /* margin-left: 0.5cm; */
+    /* margin-bottom: cm; */
+}
+.solumom{
+    display: flex;
+}

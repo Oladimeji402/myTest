@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.sax{
+ background-color: yellow;
+}
+form{
+    background-color: white;
+    border-radius: 5px;
+    color: black;
+    width: 250px;
+    box-shadow: 0px 0px 10px 0px;
+    border: none;
+}
+.ok{
+    display: flex;
+}

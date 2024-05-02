@@ -1,0 +1,145 @@
+.flote{
+    display: flex;
+    gap: 1cm;
+    text-decoration: none;
+    color: black;
+}
+.Hero{
+    display: flex;
+    gap: 2cm;
+    text-decoration: none;
+}
+.monee{
+    margin-right: 12cm;
+}
+.rot{
+    margin-left: 2cm;
+}
+.rooot{
+    margin-left: 15cm;
+    margin-top: -8cm;
+    margin-right: -2;
+}
+.Sulaimon{
+    margin: right -1px;
+}
+.container{
+    justify-content: space-around;
+}
+.think{
+    border: 2px solid;
+    background:gray;
+}
+*{
+padding: 0;
+}
+.ope{
+margin-right:-3cm ;
+}
+.true{
+list-style-type: none;
+}
+.true a{
+    color: rgb(136, 136, 136);
+}
+.right{
+    padding-left: 16cm;
+    gap: 0;
+}
+.dd{
+    margin-top: 3px;
+    width: 2.5cm;
+    text-align: center;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-color: rgb(136, 136, 136);
+}
+.bb{
+    text-align: center;
+    margin-bottom: -1cm;
+    margin-top: 1cm;
+}
+img{
+    cursor: pointer;
+    transition: all .2s ease-in-out;
+}
+img:hover{
+    transform: translateY(-6px);
+    box-shadow: 0 18px 32px -18px #000;
+}
+.shift{
+    margin-top: 1cm;
+}
+.nom{
+    background: #cecdcd;
+}
+.tempus{
+    width: 50px;
+    height: 10px;
+}
+.bmw{
+    margin-left: -22cm;
+    margin-top:2cm;
+    height: 1.2cm;
+    width: 6cm;
+    position: relative;
+    left: 0px;
+    top: 0px;
+    z-index:0;
+    border: none;
+}
+.ty{
+    color: black;
+    border: none;
+}
+.ty:hover{
+    text-decoration: none;
+    color: #000;
+}
+.luck{
+    display: flex;
+    gap: 3cm;
+   
+}
+.luck{
+    background-color: black;
+}
+.Gote{
+    background-color: black;
+    display: block;
+    text-align: center;
+}
+.sula{
+    background-color: black;
+    display: block;
+    text-align: center;
+    color: #787777;
+    padding-bottom: 1cm;
+}
+.Gote{
+    color: #787777;
+    padding-bottom: 1cm;
+}
+.fulish{
+    padding-top: 2cm;
+    width: 500px;
+    margin: 0 auto; 
+    background-color: black;
+    gap: 1cm;
+}
+.fulish a{
+    color: rgb(86, 85, 85);
+    text-decoration: none;
+}
+.fulish :hover{
+    color: #fff;
+    text-decoration: none;
+}
+.juse{
+    /* border-radius: 8px; */
+    height: 1cm;
+    padding: 5px;
+    
+}

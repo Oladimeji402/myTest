@@ -1,0 +1,74 @@
+*{
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+.lit{
+     display: flex;
+     justify-content: space-evenly;
+     align-items: center;
+}
+
+/* .lit .rit{
+    text-decoration: none;
+    color: black;
+} */
+.lit .kli{
+    font-size: 20px;
+    margin-right: -360px;
+    gap: 1cm;
+}
+.lit ul {
+    display: flex;
+    gap: 1cm;
+}
+.lit ul li a{
+    display: flex;
+    color: black;
+}
+.okk{
+     margin-top: 3cm;
+    text-align: center;
+    font-size: 30px;
+}
+.ok{
+    margin-top: 0;
+}
+.lik{
+    margin-bottom: 0;
+}
+.lop{
+    width: 400px;
+    height: 1cm;
+}
+.pol{
+    width: 70px;
+    height: 1cm;
+    background-color: green;
+    color: white;
+    text-align: center;
+    /* margin-right: 0; */
+}
+.hij{
+    margin-top: 1cm;
+    border: white;
+    margin: auto;
+    /* border-radius: 5px; */
+    display: flex;
+    justify-content: center;
+    /* margin-right: -400px; */
+    text-align: center;
+}
+/* button{
+    /* border-radius: 5px; */
+    /* margin-right: 0; */
+/* } */ */
+/* input{
+    margin-left: 0;
+} */
+.liko{
+    text-align: center;
+    opacity: 0.4;
+    justify-content: center;
+}

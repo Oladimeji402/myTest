@@ -1,0 +1,296 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    list-style: none;
+    text-decoration: none;
+}
+body{
+    background: white;
+}
+.navbar{
+    display: flex;
+    justify-content: space-evenly;
+    /* align-items: center; */
+    background-color: rgb(240, 191, 76);
+    padding: 20px;
+     position: relative; 
+    top: 0;
+    /* position: fixed; */
+    position: -webkit-sticky;
+}
+.navbar .logo{
+    margin-left: -900px;
+}
+.navbar ul {
+    display: flex;
+    margin-right: -850px;
+    gap: 1cm;
+    cursor: pointer;
+}
+.navbar ul li a{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+.navbar ul li a:hover{
+    text-decoration: underline;
+    color: red;
+}
+.jok{
+    padding-left: 8px;
+}
+.joki{
+    padding-right: 12px;
+}
+.pol ul {
+    display: flex;
+    padding: 20px;
+    /* justify-content: space-evenly; */
+    background-color: white;
+    gap: 1cm;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    cursor: pointer;
+    /* margin-bottom: 1cm; */
+}
+.pol ul li a{
+    color: black;
+}
+.pol ul li a:hover{
+    color: red;
+    text-decoration: underline;
+}
+
+.ki{
+    margin-left: 940px;
+}
+ul li :hover{
+text-decoration: underline;
+color: red;
+}
+.lopo{
+    background-image: url(poo.jpg);
+    background-size: 100%;
+    height: 500px;
+    background-repeat: no-repeat;
+    padding: 60px;
+}
+.olp{
+    color: white;
+    font-weight: 600;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-left: 360px;
+    padding: 20px;
+
+}
+.uity{
+    width: 700px;
+    height: 2cm;
+    background-color: white;
+    border: none;
+    font-size: 20px;
+    padding-left: 20px;
+    /* color: white; */
+   font-family: Arial, Helvetica, sans-serif;
+   margin-left: 380px;
+   border-radius: 5px;
+   /* margin-top: -2cm; */
+}
+input[type=submit]:hover {
+    background-color: #ff0000cc;
+    /* opacity: 1; */
+  }
+  
+.good{
+    background-color: red;
+    /* padding: 50px; */
+    color: white;
+    text-align: center;
+    height: 1.75cm;
+    width: 3cm;
+    border: 0;
+    border-radius: 5px;
+    margin-left: -120px;
+    font-weight: 600;
+    font-size: 1rem;
+    margin-top: 0.2cm;
+    margin-bottom: 0.3cm;
+}
+/* button .good:hover{
+    color: white;
+    background-color: rgba(255, 0, 0, 0.379);
+} */
+.kool{
+    background-color: white;
+    border: 0;
+    height: 4cm;
+    width: 4cm;
+    padding: 30px;
+    border-radius: 6px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    font-size: 1rem;
+}
+.lop{
+    color: rgba(0, 0, 0, 0.267);
+    font-size: 10px;
+    font-weight: 100;
+}
+.form{
+    background-color: white;
+    width: 380px;
+    height: 4cm;
+    color: black;
+    text-align: center;
+    box-shadow: 0px 2px 0px 0px rgba(0,0,0,0.24);
+    /* margin-top: 1cm; */
+    border-radius: 9px 0px 0px 9px;
+    /* padding-top: 1cm; */
+    font-size: 1.2rem;
+    /* border-bottom: 1px solid black; */
+    margin-top: -80px;
+    padding: 15px;
+    border: 0;
+    margin-bottom: 3cm;
+    /* margin-left: 300px; */
+}
+.lok{
+    background-color: white;
+    width: 380px;
+    margin-bottom: 3cm;
+    height: 4cm;
+    color: black;
+    text-align: center;
+    border: 0;
+    /* border-bottom: 1px solid black; */
+    box-shadow: 0px 2px 0px 0px  rgba(0,0,0,0.24);
+    /* margin-top: 1cm; */
+    /* border-radius: 5px; */
+    /* padding-top: 0.8cm; */
+    padding: 15px;
+    font-size: 1.2rem;
+    margin-top: -80px;
+}
+.knife{
+    background-color: white;
+    width: 380px;
+    border: 0;
+    height: 5.5cm;
+    color: black;
+    /* border-bottom: 1px solid black; */
+    text-align: center;
+    box-shadow: 0px 2px 0px 0px  rgba(0,0,0,0.24);
+    /* border-color:  #e0e0e0; */
+    /* margin-top: 1cm; */
+    border-radius: 10px 10px 10px 0px;
+    /* padding-top: 1cm; */
+    padding: 20px;
+    font-size: 1.2rem;
+    margin-top: -137px;
+}
+button li a:hover{
+    color: red;
+    text-decoration: underline;
+    cursor: pointer;
+    /* background-color: red; */
+    /* box-shadow: 4px 4px 4px 4px; */
+}
+.form li a{
+    color: black;
+}
+.lok li a{
+    color: black;
+}
+.knife li a{
+    color: black;
+}
+.look{
+    margin-bottom: 15px;
+}
+.cake{
+    color: rgba(0, 0, 0, 0.443);
+}
+.opp{
+    display: flex;
+    justify-content: center;
+}
+.mm{
+    padding-top: 15px;
+}
+.knife:hover{
+    box-shadow: 10px 12px 16px 8px rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.lok:hover{
+    box-shadow: 10px 12px 16px 8px rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.form:hover{
+    box-shadow: 10px 12px 16px 8px rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.bave{
+    /* margin-top: 7cm; */
+    /* margin-right: -80px; */
+    background-color: white;
+    margin: 1cm;
+    width: 650px;
+    height: 650px;
+    /* padding: 10px; */
+    max-width: 650px;
+    box-shadow: 10px 10px 10px 10px rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.kolp{
+    font-family: fantasy;
+    padding-top: 30px;
+    padding-left: 30px;
+    font-size: 3rem;
+}
+.kol{
+    font-family: serif;
+    font-size: 3rem;
+    padding-left: 30px;
+
+}
+/* .kolk{
+    font-size: 1.2rem;
+} */
+.kolk{
+    font-size: 20px;
+    margin-bottom: 1cm;
+    padding-left: 30px;
+    /* font-family: Arial, Helvetica, sans-serif; */
+}
+.ij{
+    margin-top: 1cm;
+    margin-bottom: 1cm;
+    border: 2px solid black;
+    margin-left: 30px;
+
+}
+.cool{
+    background-color: gainsboro;
+    width: 650px;
+    height: 5cm;
+}
+.olo{
+    display: flex;
+}
+.gold{
+    width: 700px;
+    /* margin-left: -80px; */
+    /* height: 720px; */
+}
+.kn{
+    display: flex;
+    gap: 3cm;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    margin: 1cm;
+}
+.upn{
+    margin: 1cm;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 0.6cm;
+}
+.lopr{
+   padding-left: 50px;
+}
